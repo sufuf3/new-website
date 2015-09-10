@@ -10,10 +10,18 @@
             <link>http://cdnjs.com/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2015 09:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2015 11:05:29 GMT</lastBuildDate>
         <atom:link href="http://cdnjs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[cdnjs team]]></author>
         <copyright><![CDATA[Copyright © 2015 Cdnjs. All rights reserved]]></copyright>
+        <item>
+            <title><![CDATA[Glide.js(2.0.3) was added]]></title>
+            <description><![CDATA[Simple, lightweight and fast jQuery slider<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/2.0.3/glide.min.js">https://cdnjs.cloudflare.com/ajax/libs/Glide.js/2.0.3/glide.min.js</a>]]></description>
+            <link>http://glide.jedrzejchalubek.com</link>
+            <guid isPermaLink="false">Glide.js2.0.3</guid>
+            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2015 11:00:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[avalon.js updated to version 1.5.1]]></title>
             <description><![CDATA[A lightweight,high-performance and easy-to-learn javascript MVVM framework<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/avalon.js/1.5.1/avalon.min.js">https://cdnjs.cloudflare.com/ajax/libs/avalon.js/1.5.1/avalon.min.js</a>]]></description>
@@ -824,14 +832,6 @@
             <description><![CDATA[Quickly create responsive HTML emails that work on any device & client. Even Outlook.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/zurb-ink/1.0.5/ink.min.css">https://cdnjs.cloudflare.com/ajax/libs/zurb-ink/1.0.5/ink.min.css</a>]]></description>
             <link>http://zurb.com/ink</link>
             <guid isPermaLink="false">zurb-ink1.0.5</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2015 15:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[zocial updated to version 0]]></title>
-            <description><![CDATA[Zocial button set with CSS. Entirely vector-based social buttons.<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/zocial/0/zocial.min.css">https://cdnjs.cloudflare.com/ajax/libs/zocial/0/zocial.min.css</a>]]></description>
-            <link>http://zocial.smcllns.com</link>
-            <guid isPermaLink="false">zocial0</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Sun, 06 Sep 2015 15:16:30 GMT</pubDate>
         </item>
@@ -8161,14 +8161,6 @@
             <guid isPermaLink="false">highstock2.1.8</guid>
             <dc:creator><![CDATA[cdnjs team]]></dc:creator>
             <pubDate>Thu, 27 Aug 2015 15:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[weather-icons updated to version 2.0.5]]></title>
-            <description><![CDATA[Weather Icons<br /><br /><a href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.5/css/weather-icons.min.css">https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.5/css/weather-icons.min.css</a>]]></description>
-            <link>http://erikflowers.github.io/weather-icons/</link>
-            <guid isPermaLink="false">weather-icons2.0.5</guid>
-            <dc:creator><![CDATA[cdnjs team]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2015 09:24:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[mori updated to version 0.3.2]]></title>
