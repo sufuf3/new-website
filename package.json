@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "startWeb": "node webServer.js",
     "startAPI": "node apiServer.js",
-    "reindex": "node reindex.js"
+    "reindex": "node reindex.js",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -36,9 +38,11 @@
     "highlight.js": "^9.6.0",
     "lodash": "^4.15",
     "markdown": "^0.5.0",
-    "marked": "^0.3.6",
+    "marked": "^0.4.0",
     "mustache": "^2.2.1",
     "newline-remove": "^1.0.2",
-    "throng": "^1.0.1"
-  }
+    "throng": "^1.0.1",
+    "snyk": "^1.192.4"
+  },
+  "snyk": true
 }
